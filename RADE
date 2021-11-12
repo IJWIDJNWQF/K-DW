@@ -9,5 +9,5 @@ Section:NewToggle("Fly", "Fly Info", function(state)
         print("Toggle On")
     else
         print("Toggle Off")
-    pastebin.com/raw/7rXZ9VNc
+    https://pastebin.com/raw/7rXZ9VNc
 end)
